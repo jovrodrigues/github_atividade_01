@@ -5,6 +5,6 @@ Este repositório foi criado para a primeira atividade sobre GitHub, com as ativ
 
 O site, utilizando HTML5, tem o propósito apenas para testar as funcionalidades do GitHub, assim, apenas possui um ***header***, que contém uma ***div*** e uma ***tag-h1***.
 
-> ### Criando a versão ***versão*** 1.0.0.2
+> ### Criando a ***versão*** 1.0.0.2
 >
 > O cabeçalho nestao versão está sendo movido para o centro da página, bem como está ganhando um fundo colorido.
